@@ -25,7 +25,7 @@ SECRET_KEY = 'cippd=uamsx0l9yxi4vgz8fc1edyzgd7$ma*)5lw6mx_jhp-_*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ekay19.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'isek.pythonanywhere.com']
 
 
 # Application definition
